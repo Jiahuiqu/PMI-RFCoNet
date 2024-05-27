@@ -12,3 +12,13 @@ Please run train.py and test.py for training and testing.
 
 ### Citation
 If you find this code helpful, please kindly cite:
+
+@ARTICLE{Qu202405,  
+  author={Qu, Jiahui and Liu, Xuyao and Dong, Wenqian and Liu, Yang and Zhang, Tongzhen and Xu, Yang and Li, Yunsong},  
+  journal={IEEE Transactions on Geoscience and Remote Sensing},   
+  title={Progressive Multi-Iteration Registration-Fusion Co-Optimization Network for Unregistered Hyperspectral Image Super-Resolution},   
+  year={2024},  
+  volume={},  
+  number={},  
+  pages={1-14},  
+  doi={}}
