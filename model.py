@@ -364,7 +364,7 @@ class SpatialTransformation(nn.Module):
 
 
 '''
-Spectral Recalibration and Fusion Module(SEFU)
+Spectral Recalibration and Fusion Module(SRFU)
 '''
 class EqualLinear(nn.Module):
     def __init__(self, in_dim, out_dim, drop):
