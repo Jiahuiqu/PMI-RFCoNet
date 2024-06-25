@@ -13,12 +13,14 @@ Please run train.py and test.py for training and testing.
 ## Citation
 If you find this code helpful, please kindly cite:
 
-@ARTICLE{Qu202405,  
+@ARTICLE{10546322,  
   author={Qu, Jiahui and Liu, Xuyao and Dong, Wenqian and Liu, Yang and Zhang, Tongzhen and Xu, Yang and Li, Yunsong},  
-  journal={IEEE Transactions on Geoscience and Remote Sensing},   
+  journal={IEEE Transactions on Geoscience and Remote Sensing},     
   title={Progressive Multi-Iteration Registration-Fusion Co-Optimization Network for Unregistered Hyperspectral Image Super-Resolution},   
   year={2024},  
-  volume={},  
+  volume={62},  
   number={},  
   pages={1-14},  
-  doi={}}
+  keywords={Hyperspectral imaging;Image reconstruction;Deformation;Spatial resolution;Optimization;Superresolution;Correlation;Co-optimization;hyperspectral image (HSI);non-rigid registration;super-resolution},  
+  doi={10.1109/TGRS.2024.3408424}}  
+
