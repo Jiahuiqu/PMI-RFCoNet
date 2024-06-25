@@ -19,7 +19,7 @@ If you find this code helpful, please kindly cite:
   title={Progressive Multi-Iteration Registration-Fusion Co-Optimization Network for Unregistered Hyperspectral Image Super-Resolution},   
   year={2024},  
   volume={62},  
-  number={},  
+  number={5519814},  
   pages={1-14},  
   keywords={Hyperspectral imaging;Image reconstruction;Deformation;Spatial resolution;Optimization;Superresolution;Correlation;Co-optimization;hyperspectral image (HSI);non-rigid registration;super-resolution},  
   doi={10.1109/TGRS.2024.3408424}}  
